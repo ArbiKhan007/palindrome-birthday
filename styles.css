@@ -1,0 +1,30 @@
+.app {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+label {
+  font-size: 1.2rem;
+  margin: 8px 4px;
+}
+
+input {
+  padding: 12px;
+  border: 2.4px solid #1013c5;
+  border-radius: 12px;
+  font-size: 1.1rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+#submitBtn {
+  padding: 12px;
+  border-radius: 12px;
+  background-color: #1013c5;
+  color: #fff;
+  border: 2px solid #9a9acc;
+  cursor: pointer;
+}
